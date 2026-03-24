@@ -6,8 +6,22 @@ Trained on 100+ legendary sales letters from Gary Halbert, Eugene Schwartz, Dan 
 
 ## Install
 
+**Easiest way:** Open Claude Code and say:
+
+> Install this skill for me: https://github.com/tenfoldmarc/copy-skill
+
+Claude will handle the rest.
+
+**Or do it yourself:**
+
+Mac/Linux:
+```bash
+git clone https://github.com/tenfoldmarc/copy-skill.git ~/.claude/commands/copy
 ```
-claude install-skill https://github.com/tenfoldmarc/copy-skill
+
+Windows:
+```bash
+git clone https://github.com/tenfoldmarc/copy-skill.git %USERPROFILE%\.claude\commands\copy
 ```
 
 ## What's Included
